@@ -1,0 +1,10 @@
+-- ตัวแปร
+local name = "GAMEEY"
+local age = 18
+
+-- ฟังก์ชัน
+function hello()
+    print("Hello "GAMEEYname)
+end
+
+hello()
